@@ -2,7 +2,7 @@
 
 **Project Title**
 
-Image to Text Synthesizer
+Text-to-Image Synthesizer
 
 **Introduction**
 
